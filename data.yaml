@@ -1,0 +1,12 @@
+---
+
+root_dir: ./
+
+#folders for train, validation, and test directories
+train_dir: # path/to/train 
+val_dir: # path/to/val
+test_dir: # path/to/test
+
+
+
+

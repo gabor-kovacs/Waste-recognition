@@ -1,0 +1,2 @@
+channels,data_dir,model,size,n_classes,classes,mean,std,no_rgb
+"['ndvi', 'gndvi', 'rededge']",data_aer.yaml,unet,640,5,"{'grass': 0, 'obstacle': 1, 'road': 2, 'trash': 3, 'vegetation': 4}","[0.3582850575382683, 0.21850878253252187, 0.22273015377280164]","[0.1959599683893488, 0.1373912334838446, 0.07926674805856508]",True
